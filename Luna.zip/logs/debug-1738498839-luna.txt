@@ -1,0 +1,37 @@
+DEBUG | [9248] Roblox succesfully patched.
+DEBUG | [9248] Fetched renderjob [2231562256384]
+DEBUG | [9248] Got datamodel name Ugc
+ERROR | Succesfully Attached
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+DEBUG | [10884] Roblox succesfully patched.
+DEBUG | [10884] Fetched renderjob [2314532001056]
+DEBUG | [10884] Got datamodel name LuaApp
+ERROR | Client JJJS_003 had a error, please rechoose it in the menu.
+ERROR | Client JJJS_003 had a error, please rechoose it in the menu.
+ERROR | Client JJJS_003 is not injected!
+ERROR | Succesfully Attached
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful
+ERROR | Successful

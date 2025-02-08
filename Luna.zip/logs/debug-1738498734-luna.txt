@@ -1,0 +1,3 @@
+DEBUG | [9248] Roblox succesfully patched.
+DEBUG | [9248] Fetched renderjob [2231562256384]
+DEBUG | [9248] Got datamodel name Ugc

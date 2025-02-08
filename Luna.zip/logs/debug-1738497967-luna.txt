@@ -1,0 +1,12 @@
+ERROR | WebVie2wProcess failed with kind 6
+DEBUG | [1636] Roblox succesfully patched.
+DEBUG | [1636] Fetched renderjob [1858191494928]
+DEBUG | [1636] Got datamodel name Ugc
+ERROR | Succesfully Attached
+ERROR | Successful
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful
+ERROR | Successful
+ERROR | Client JJJS_003 is already injected!
+ERROR | Successful

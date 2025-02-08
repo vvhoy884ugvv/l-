@@ -1,0 +1,3 @@
+DEBUG | [1636] Roblox succesfully patched.
+DEBUG | [1636] Fetched renderjob [140699200762368]
+ERROR | WebVie2wProcess failed with kind 6
